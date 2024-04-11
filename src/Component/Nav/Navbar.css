@@ -1,0 +1,29 @@
+#nav{
+ background-color: rgba(0, 204, 255, 0.796);
+ height: 70px;
+ display: flex;
+
+}
+
+.flexcontainer{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nav h2 {
+    margin: 0;
+    color: azure;
+}
+
+
+#nav a {
+
+    color:khaki;
+    text-decoration:none;
+    margin-right: 50px;
+    
+    
+    
+}

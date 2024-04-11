@@ -1,5 +1,6 @@
 import './App.css';
 import Navbar from './Component/Nav/Navbar';
+import OpenAIRequest from './Component/OpenAI/OpenAIRequest';
 import Routing from './Component/Routing/Routing';
 import "bootstrap/dist/css/bootstrap.css";
 
